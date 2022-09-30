@@ -4,7 +4,7 @@
 
 :point_right: **About me**
 
-* :mortar_board: I'm currently studying a <a href="http://dia.fi.upm.es/mastercd/">Master's Degree in Data Science</a> @ <br> [Universidad Politécnica of Madrid](https://www.upm.es/).
+* :mortar_board: I'm currently studying a <a href="http://dia.fi.upm.es/mastercd/">Master's Degree in Data Science</a> @ [Universidad Politécnica of Madrid](https://www.upm.es/).
 
 * :book: **Favorite languages**: <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=15> Python</a>, <a title="The Go Authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg"><img width="25" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/32px-Go_Logo_Blue.svg.png"></a> <a href="https://go.dev/">Golang</a>, <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C Programming Language" alt="" width=15> C</a>
 * :hammer_and_wrench: **Favorite IDE**: <a href="https://code.visualstudio.com/"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" alt="" width="15"/> Visual Studio Code</a>
