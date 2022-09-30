@@ -14,10 +14,11 @@
 
 :point_right: **Some stats**
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershimen&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=0D1117&text_bold=true&" alt="Github-readme-stats" align=left>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ershimen&hide=issues&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true&bg_color=0D1117&text_bold=true&" alt="Github-readme-stats" align=right width=500>
-
+</div>
 <!--
 
   Some unused shit below
