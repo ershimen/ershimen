@@ -68,8 +68,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ershimen&langs_count=8&layout=compact&theme=noctis_minimus&hide_border=true&bg_color=0D1117&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 <!--
 
   Some unused shit below
